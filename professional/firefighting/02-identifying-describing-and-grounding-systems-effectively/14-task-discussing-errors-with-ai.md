@@ -1,6 +1,6 @@
 ---
 title: 'R1.1:Tasks4 - Задание: Обсудите ошибки с ИИ'
-order: 15
+order: 14
 type: checklist
 ---
 
